@@ -19,7 +19,7 @@ One of my projects is **MellowUPIreportsFormater**, where I developed a Python p
 
 You can explore this project on GitHub:
 
-- [MellowUPIreportsFormater](Link to MellowUPIreportsFormater): A Python program for formatting UPI merchant transaction reports.
+- [MellowUPIreportsFormater](https://github.com/mellow-007/MellowUPIreportsFormater): A Python/exe program for formatting UPI merchant transaction reports.
 
 Feel free to check it out, provide feedback, or use it for your transaction data formatting needs!
 
