@@ -6,12 +6,11 @@ I'm Nitheesh R, a student pursuing a Bachelor's degree in Electrical and Electro
 
 - 📚 I'm a student at National Engineering College, Kovilpatti, where I'm gaining knowledge and skills in electrical and electronics engineering.
 - 💡 I have a keen interest in Reverse Engineering (I'm a noob ) .
-- 🌱 Always eager to learn and keep up with the latest advancements in my field.
 - 📫 You can reach me at abinitheeshgrscv@gmail.com.
 
 ## My Projects
 
-One of my projects is **MellowUPIreportsFormater**, where I developed a Python program that formats UPI merchant transaction reports into a user-friendly format. This program is designed to simplify the process of working with UPI merchant transaction data and make it more accessible for analysis. It offers the following features:
+One of my projects is **MellowUPIreportsFormater**, where I developed a Python program with the assistance of AI that formats UPI merchant transaction reports into a user-friendly format. This program is designed to simplify the process of working with UPI merchant transaction data and make it more accessible for analysis. It offers the following features:
 
 - **Versatile Input Support:** The program supports various input file formats like .zip/.csv, allowing users to work with transaction reports from different sources.
 
@@ -19,7 +18,7 @@ One of my projects is **MellowUPIreportsFormater**, where I developed a Python p
 
 You can explore this project on GitHub:
 
-- [MellowUPIreportsFormater](https://github.com/mellow-007/MellowUPIreportsFormater): A Python/exe program for formatting UPI merchant transaction reports.
+- [MellowUPIreportsFormater](https://github.com/mellow-007/MellowUPIreportsFormater): A Python/exe program for formatting UPI merchant transaction reports developed with the assistance of AI.
 
 Feel free to check it out, provide feedback, or use it for your transaction data formatting needs!
 
